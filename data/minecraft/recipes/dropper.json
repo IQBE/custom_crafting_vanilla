@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "###",
-    "#B#",
+    "# #",
     "#R#"
   ],
   "key": {
@@ -17,16 +17,12 @@
         "item": "minecraft:blackstone"
       }
     ],
-    "B": {
-      "item": "minecraft:bow"
-    },
     "R": {
       "item": "minecraft:redstone"
     }
   },
   "result": {
-    "item": "minecraft:dispenser",
+    "item": "minecraft:dropper",
     "count": 1
-  },
-  "group": "dispenser"
+  }
 }
