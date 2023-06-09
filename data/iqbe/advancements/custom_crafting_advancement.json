@@ -12,7 +12,7 @@
       "show_toast": false,
       "announce_to_chat": false
   },
-  "parent": "minecraft:IQBE/root",
+  "parent": "iqbe:root",
   "criteria": {
     "tick": {
         "trigger": "minecraft:tick"
