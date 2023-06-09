@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "custom_crafting_vanilla:dropper_to_dispenser"
+    ]
+  },
+  "criteria": {
+    "has_dropper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dropper"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "custom_crafting_vanilla:dropper_to_dispenser"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_dropper",
+      "has_the_recipe"
+    ]
+  ]
+}

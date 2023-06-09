@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "custom_crafting_vanilla:raw_iron_block_to_iron_block",
+      "custom_crafting_vanilla:blasting_raw_iron_block_to_iron_block"
+    ]
+  },
+  "criteria": {
+    "has_raw_iron_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:raw_iron_block"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "custom_crafting_vanilla:raw_iron_block_to_iron_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_iron_block",
+      "has_the_recipe"
+    ]
+  ]
+}
