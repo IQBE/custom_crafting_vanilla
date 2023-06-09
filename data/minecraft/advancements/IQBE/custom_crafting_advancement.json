@@ -1,0 +1,21 @@
+{
+  "display": {
+      "title": "Custom Crafting Recipes",
+      "description": {
+          "text": "Custom crafting recipes for vanilla items to make every day life a bit easier.",
+          "color": "gold"
+      },
+      "icon": {
+          "item": "minecraft:crafting_table"
+      },
+      "frame": "goal",
+      "show_toast": false,
+      "announce_to_chat": false
+  },
+  "parent": "minecraft:IQBE/root",
+  "criteria": {
+    "tick": {
+        "trigger": "minecraft:tick"
+    }
+  }
+}
