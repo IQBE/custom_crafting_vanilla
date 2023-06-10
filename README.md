@@ -24,7 +24,7 @@ Just like with the droppers, cobbled deepslate and blackstone are normally not a
 
 The crafting recipe for a dispenser is just the same as that of a dropper with an extra bow added to it. This recipe allows you to add the bow afterwards.
 
-<img src="./recipe_images/dropper_to_dispenser.png" src="Dispenser crafted from adding a bow to a dropper.">
+<img src="./recipe_images/dropper_to_dispenser.png" alt="Dispenser crafted from adding a bow to a dropper.">
 
 ### Logs to sticks
 
