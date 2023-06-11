@@ -46,7 +46,7 @@ The following recipes are altered or added for the furnace, smoker and/or blast 
 
 For some reason, it's not possible to smelt raw ore blocks without decompressing them first. This recipe makes it possible to smelt raw iron blocks, raw gold blocks and raw copper blocks to their smelted variants. This can be done in a furnace or in a blast furnace and gives the same amount of xp as it would take to smelt the 9 raw ores manually. Note: this does take less fuel and is quicker then smelting the raw ores one by one.
 
-<img src="./recipe_images/dropper.gif" alt="Smelt raw ore blocks directly.">
+<img src="./recipe_images/raw_blocks_to_blocks.gif" alt="Smelt raw ore blocks directly.">
 
 ## How to install
 
