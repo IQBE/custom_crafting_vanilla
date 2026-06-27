@@ -25,7 +25,7 @@
     }
   },
   "result": {
-    "item": "minecraft:dispenser",
+    "id": "minecraft:dispenser",
     "count": 1
   },
   "group": "dispenser"

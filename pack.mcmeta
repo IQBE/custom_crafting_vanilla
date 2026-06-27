@@ -1,7 +1,6 @@
 {
   "pack": {
-    "pack_format": 15,
-    "supported_formats": [15, 22],
+    "supported_formats": 41,
     "description": "IQBE's Custom Crafting Datapack"
   }
 }
