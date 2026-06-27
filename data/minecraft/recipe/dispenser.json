@@ -7,22 +7,12 @@
   ],
   "key": {
     "#": [
-      {
-        "item": "minecraft:cobblestone"
-      },
-      {
-        "item": "minecraft:cobbled_deepslate"
-      },
-      {
-        "item": "minecraft:blackstone"
-      }
+      "minecraft:cobblestone",
+      "minecraft:cobbled_deepslate",
+      "minecraft:blackstone"
     ],
-    "B": {
-      "item": "minecraft:bow"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    }
+    "B": "minecraft:bow",
+    "R": "minecraft:redstone"
   },
   "result": {
     "id": "minecraft:dispenser",

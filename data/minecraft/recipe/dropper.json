@@ -7,19 +7,11 @@
   ],
   "key": {
     "#": [
-      {
-        "item": "minecraft:cobblestone"
-      },
-      {
-        "item": "minecraft:cobbled_deepslate"
-      },
-      {
-        "item": "minecraft:blackstone"
-      }
+      "minecraft:cobblestone",
+      "minecraft:cobbled_deepslate",
+      "minecraft:blackstone"
     ],
-    "R": {
-      "item": "minecraft:redstone"
-    }
+    "R": "minecraft:redstone"
   },
   "result": {
     "id": "minecraft:dropper",
