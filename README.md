@@ -28,7 +28,7 @@ The crafting recipe for a dispenser is just the same as that of a dropper with a
 
 <img src="./recipe_images/dropper_to_dispenser.png" alt="Dispenser crafted from adding a bow to a dropper.">
 
-### Dispense without bow item
+### Dispenser without bow item
 
 > Added in version 15.3 of the pack
 
