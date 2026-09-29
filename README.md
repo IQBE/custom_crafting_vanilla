@@ -2,11 +2,13 @@
 
 A small data pack that adds crafting recipes for vanilla items to make every day life a bit easier.
 
-This data pack adds crafting and smelting recipes that should be in the game by default. It does this in a way that makes sense, is balanced and maintains the overall amount of items and experience received per resource.
+This data pack adds crafting and smelting recipes that I believe, should be in the game by default. It does this in a way that makes sense, is balanced and maintains the overall amount of items and experience received per resource.
+
+> Note: some recipes might only be available from a certain version onward. Currently, there are no plans to backport newer recipes to an older version of the pack.
 
 ## Crafting recipes
 
-The following recipes are altered or added for the crafting table
+The following recipes are altered or added for the crafting table.
 
 ### Dropper cobbled deepslate and blackstone support
 
@@ -26,6 +28,14 @@ The crafting recipe for a dispenser is just the same as that of a dropper with a
 
 <img src="./recipe_images/dropper_to_dispenser.png" alt="Dispenser crafted from adding a bow to a dropper.">
 
+### Dispense without bow item
+
+> Added in version 15.3 of the pack
+
+The most annoying part of dispenser crafting is the lack of inventory space when you need to craft unstackable bows first. This recipe fixes that! Just craft your bow around a dropper.
+
+<img src="./recipe_images/dispenser_without_bow.png" alt="Dispenser crafted by forming a bow around a dropper.">
+
 ### Logs to sticks
 
 Sometimes you just need a lot of sticks, and the extra step of converting your logs to 4 planks seems unnecessary. This recipe allows you to skip that step and convert your 2 logs straight into 16 sticks. Any log type is supported, even stripped logs.
@@ -44,7 +54,9 @@ The following recipes are altered or added for the furnace, smoker and/or blast 
 
 ### Raw ore blocks to smelted blocks
 
-For some reason, it's not possible to smelt raw ore blocks without decompressing them first. This recipe makes it possible to smelt raw iron blocks, raw gold blocks and raw copper blocks to their smelted variants. This can be done in a furnace or in a blast furnace and gives the same amount of xp as it would take to smelt the 9 raw ores manually. Note: this does take less fuel and is quicker then smelting the raw ores one by one.
+For some reason, it's not possible to smelt raw ore blocks without decompressing them first. This recipe makes it possible to smelt raw iron blocks, raw gold blocks and raw copper blocks to their smelted variants. This can be done in a furnace or in a blast furnace and gives the same amount of xp as it would take to smelt the 9 raw ores manually.
+
+> Note: this does take less fuel and is quicker then smelting the raw ores one by one.
 
 <img src="./recipe_images/raw_blocks_to_blocks.gif" alt="Smelt raw ore blocks directly.">
 
@@ -82,3 +94,4 @@ Congrats! Your data pack should now be installed. If you have enabled cheats or 
 This data pack was created by <a href="https://github.com/IQBE">IQBE</a>.
 
 Pictures of the recipes as well as some JSON files were created using the Crafting tool from <a href="https://thedestruc7i0n.ca/">TheDestruc7i0n</a>.
+
